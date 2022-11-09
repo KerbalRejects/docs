@@ -75,6 +75,9 @@
 * Trello will be used to track group and individual tasks.
 
 [Slideshow Deck](https://docs.google.com/document/d/1SEJjSn--AqEZrDbxtRhJL_nMpoaS65yRY6RJfgWDBdA/edit?usp=sharing)
+[Trello Board](https://trello.com/b/9HvUfNgz)
+[GitHub Org/Repos](https://github.com/orgs/KerbalRejects/repositories)
+[Figma Whiteboard](https://www.figma.com/file/DbtYtDU61NUaAE2F0OAxvc/Wireframe)
 
 ### Git Process
 
@@ -96,6 +99,17 @@ feature -> dev -> main
 
 * We will communicate verbally.
 
+## User Stories
+
+![UserStories](assets/UserStories.png)
+
+## Page Layout
+
+![PageLayout](assets/PageLayout.png)
+
+## Domain Model
+
+![DomainModel](assets/DomainModel.png)
 
 
 
