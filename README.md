@@ -9,7 +9,7 @@
 * Gaz: Ability to deconstruct complex problems and a good leader.
 * Manuch: Thinking through process(s) algorithmically. 
 * Ethan: Creative thinking, ability to look at a project from a different perspective.
-* Chris:
+* Chris: Think Creativily and Public Speaking good stregth in Backend/server.
 
 **Utilizing these strengths**
 
@@ -20,7 +20,7 @@
 * Gaz: Get better at CSS/Styling
 * Manuch: Functional programming, to get more experience with methods and data structures.
 * Ethan: Develop frontend framework experience and creating servers.
-* Chris:
+* Chris: Better Understanding of front-end work (React), as well get better at logic and proble solving.
 
 **Project Management**
 
@@ -54,7 +54,7 @@
 * Gaz: Evenings and afternoons, weekdays and weekends.
 * Manuch: Usual class hours. 5:30pm-9:30pm Mon-Thurs and Saturday 9:00am-6:30pm. Flexible.
 * Ethan: Usual class hours. 4:30pm-9:30pm Mon-Thurs and Saturday 9:00am-6:30pm. Flexible.
-* Chris:
+* Chris: : Usual Class Hours. 5:30 - 9:30 Mon- thurs, flexible on Friday (will check schedule). Well do what I can to be available. 
 
 **Platforms**
 
